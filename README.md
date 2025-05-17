@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou o Roger Vidal
 
-🎓 Estudante de Ciência da Computação | 💻 Técnico em Informática | 👨‍💻 Dev Front-End 
----
+🌱 Iniciando minha jornada como desenvolvedor Front-End.
+🎯 Estudando HTML, CSS, JavaScript e ferramentas modernas.
+🚀 Buscando criar projetos práticos e evoluir um pouco a cada dia.
+📚 Compartilhando meus aprendizados aqui no GitHub!
+
 <div>
   <a href="https://github.com/RogerFVidal">
 </div>
