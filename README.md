@@ -31,13 +31,3 @@
   <img align="center" alt="Vidal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
-
----
-
-## 📫 Como me encontrar?
-
-- ✉️ Email: [vidal.rogerf@gmail.com](mailto:vidal.rogerf@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/roger-vidal)
-
----
-
