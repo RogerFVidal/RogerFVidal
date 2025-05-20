@@ -1,25 +1,19 @@
 # 👋 Olá! Eu sou o Roger Vidal
 
-🌱 Iniciando minha jornada como desenvolvedor Front-End.
-🎯 Estudando HTML, CSS, JavaScript e ferramentas modernas.
-🚀 Buscando criar projetos práticos e evoluir um pouco a cada dia.
-📚 Compartilhando meus aprendizados aqui no GitHub!
-
 <div>
   <a href="https://github.com/RogerFVidal">
 </div>
     
+[![Roger's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RogerFVidal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 ## 🚀 Tecnologias e Ferramentas que utilizo
-    
-- HTML, CSS, JavaScript, Python
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vidal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vidal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vidal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vidal-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
 
 ## 📈 Estudando no momento
 
